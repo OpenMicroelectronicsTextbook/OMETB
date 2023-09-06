@@ -45,7 +45,7 @@ Remember, you don't need to worry about dependencies or setup; everything is sel
 We welcome contributions from everyone! Whether you're an expert in the field or just starting out, there's a place for you here.
 
 1. **Fork the Repository**: Click on the 'Fork' button at the top right corner of this page.
-2. **Clone Your Fork**: `git clone https://github.com/your_username/TheOpenMicroelectronicsTextbook.git`
+2. **Clone Your Fork**: `git clone https://github.com/your_username/OMETB.git`
 3. **Create a New Branch**: `git checkout -b new-feature-name`
 4. **Make Your Changes**.
 5. **Commit and Push**: `git commit -m "Add some new feature" && git push origin new-feature-name`
