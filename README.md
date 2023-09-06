@@ -51,8 +51,6 @@ We welcome contributions from everyone! Whether you're an expert in the field or
 5. **Commit and Push**: `git commit -m "Add some new feature" && git push origin new-feature-name`
 6. **Open a Pull Request**: Go to the main page of the repository and click on 'New pull request'.
 
-For more detailed instructions and guidelines, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## 📚 Topics (Soon to be!) Covered
 
 | Topics                                   | Status         |
