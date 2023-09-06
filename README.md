@@ -65,4 +65,4 @@ Join our channel on [Open Silicon Slack](https://join.slack.com/share/enQtNTg1Nz
 
 ## 📜 License
 
-This project is licensed under the [CC BY-SA License](LICENSE).
+This project is licensed under the [CC BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/).
