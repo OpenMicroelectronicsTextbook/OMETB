@@ -8,7 +8,7 @@ Welcome to **The Open Microelectronics Textbook** - a collaborative effort by th
 
 ## 📖 About
 
-This textbook is not just another resource; it's a movement. Born out of the passion and expertise of community members, it covers a broad spectrum of topics in microelectronic design. Our unique pedagogical approach emphasizes hands-on learning using open-source tools and resources, ensuring that you not only understand the theory but also see it in action.
+This textbook is born out of the passion and expertise of community members, it covers a broad spectrum of topics in microelectronic design. Our unique pedagogical approach emphasizes hands-on learning using open-source tools and resources, ensuring that you not only understand the theory but also see it in action.
 
 ## 🛠️ Interactive Notebooks
 
