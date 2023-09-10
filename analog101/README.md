@@ -2,7 +2,9 @@
 
 ---
 
-Welcome to **Analog 101** - the first series of "The Open Microelectronics Textbook". This series is crafted to provide you with an immersive, interactive learning experience in introductory Analog IC Design. The series closely following Tony Chan Carusone's renowned course on YouTube with simulations and exercises written in pure Python with HDL21 using the SKY130 Open PDK. 🚀
+Welcome to **Analog 101** - the first series of "The Open Microelectronics Textbook". This series is crafted to provide you with an immersive, interactive learning experience in introductory Analog IC Design. The series closely following Tony Chan Carusone's renowned course on YouTube with simulations and exercises written in pure Python with HDL21 using the Global Foundries 180nm MCU Open PDK. 🚀
+
+🚧 Note: Since you will be learning on Open PDKs, we recommend that you learn Analog IC design using the GF180 MCU PDK as it has better analog models than SKY 130. While SKY 130 models are adequate for Medium/Strong Inversion transistor modelling, they aren't continuous models in W/L and have significant issues in subthreshold modelling 🚧
 
 ## 📘 About Analog 101
 
@@ -10,7 +12,7 @@ Welcome to **Analog 101** - the first series of "The Open Microelectronics Textb
 
 - 🎥 **Embedded Videos**: Directly from Tony Chan Carusone's course, serving as the foundation of each lesson.
 - 📝 **Theoretical Notes**: Detailed explanations and insights that might not be directly simulated but are crucial for a comprehensive understanding.
-- 💡 **Simulations**: Interactive modules that allow you to tinker with and deeply understand the concepts presented in the videos in the SKY130 PDK.
+- 💡 **Simulations**: Interactive modules that allow you to tinker with and deeply understand the concepts presented in the videos in the GF180 MCU PDK.
 - 🧠 **Exercises**: Challenge your understanding by working on exercises that use both the notes and simulations.
 
 ## 🚀 How to Get Started
